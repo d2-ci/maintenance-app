@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[8167],{8167:function(e,_,s){s.r(_),_.default={header:"OverviewGroup_header__8HLtq",summary:"OverviewGroup_summary__5DHPc"}}}]);
+//# sourceMappingURL=8167.20ec81cc.chunk.js.map
