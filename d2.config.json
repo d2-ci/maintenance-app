@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "title": "Maintenance App - Beta",
+  "name": "maintenance-app",
+  "version": "1.0.0",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}

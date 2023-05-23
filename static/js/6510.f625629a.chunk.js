@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[6510],{6510:function(e,n,s){s.r(n),s.d(n,{Component:function(){return r}});var t=s(969),l=s(734);const r=()=>{const{id:e}=(0,l.UO)();return t.createElement("div",null,"This is a form for dataElements")}}}]);
+//# sourceMappingURL=6510.f625629a.chunk.js.map
