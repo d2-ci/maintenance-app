@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[4807],{84807:function(e,s,n){n.r(s),n.d(s,{Component:function(){return l}});var t=n(30969);const l=()=>t.createElement("div",null,"This is a list of Data Elements")}}]);
+//# sourceMappingURL=4807.b44439d6.chunk.js.map
