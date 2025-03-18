@@ -1,6 +1,6 @@
 {
   "name": "maintenance-app",
-  "version": "32.33.11",
+  "version": "32.33.12",
   "description": "DHIS2 Maintenance app",
   "repository": {
     "type": "git",
@@ -119,13 +119,14 @@
     "test"
   ],
   "manifest.webapp": {
+    "short_name": "maintenance",
     "name": "Maintenance app",
     "icons": {
       "48": "icon.png"
     },
     "developer": {
       "url": "",
-      "name": "HISP"
+      "name": "DHIS2"
     },
     "activities": {
       "dhis": {

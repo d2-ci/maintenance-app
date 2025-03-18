@@ -8,13 +8,14 @@
   },
   "appType": "APP",
   "name": "Maintenance app",
-  "version": "32.33.11",
+  "version": "32.33.12",
   "description": "DHIS2 Maintenance app",
+  "short_name": "maintenance",
   "icons": {
     "48": "icon.png"
   },
   "developer": {
-    "name": "HISP"
+    "name": "DHIS2"
   },
-  "manifest_generated_at": "Sun Mar 16 2025 01:53:18 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Tue Mar 18 2025 15:46:52 GMT+0000 (Coordinated Universal Time)"
 }
