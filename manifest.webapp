@@ -1,0 +1,21 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "Maintenance app",
+  "version": "32.34.1",
+  "description": "DHIS2 Maintenance app",
+  "short_name": "maintenance",
+  "icons": {
+    "48": "icon.png"
+  },
+  "developer": {
+    "name": "DHIS2"
+  },
+  "manifest_generated_at": "Mon Mar 24 2025 13:04:22 GMT+0000 (Coordinated Universal Time)"
+}
