@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "Maintenance app",
-  "version": "32.35.0",
+  "version": "32.35.1",
   "description": "DHIS2 Maintenance app",
   "short_name": "maintenance",
   "icons": {
@@ -91,7 +91,7 @@
       "url": "#/list/organisationUnitSection/organisationUnit"
     },
     {
-      "name": "Organisaiton unit groups",
+      "name": "Organisation unit groups",
       "url": "#/list/organisationUnitSection/organisationUnitGroup"
     },
     {
@@ -207,5 +207,5 @@
       "url": "#/list/otherSection/analyticsTableHook"
     }
   ],
-  "manifest_generated_at": "Wed Apr 09 2025 16:52:34 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Thu Apr 10 2025 10:48:43 GMT+0000 (Coordinated Universal Time)"
 }
