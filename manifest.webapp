@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "Maintenance app",
-  "version": "32.35.0",
+  "version": "32.35.2",
   "description": "DHIS2 Maintenance app",
   "short_name": "maintenance",
   "icons": {
@@ -17,195 +17,195 @@
   "developer": {
     "name": "DHIS2"
   },
-  "shortcuts": {
-    "0": {
+  "shortcuts": [
+    {
       "name": "Categories",
       "url": "#/list/categorySection/category"
     },
-    "1": {
+    {
       "name": "Category options",
       "url": "#/list/categorySection/categoryOption"
     },
-    "2": {
+    {
       "name": "Category combinations",
       "url": "#/list/categorySection/categoryCombo"
     },
-    "3": {
+    {
       "name": "Category option combinations",
       "url": "#/list/categorySection/categoryOptionCombo"
     },
-    "4": {
+    {
       "name": "Category option groups",
       "url": "#/list/categorySection/categoryOptionGroup"
     },
-    "5": {
+    {
       "name": "Category option group sets",
       "url": "#/list/categorySection/categoryOptionGroupSet"
     },
-    "6": {
+    {
       "name": "Data elements",
       "url": "#/list/dataElementSection/dataElement"
     },
-    "7": {
+    {
       "name": "Data element groups ",
       "url": "#/list/dataElementSection/dataElementGroup"
     },
-    "8": {
+    {
       "name": "Data element group sets",
       "url": "#/list/dataElementSection/dataElementGroupSet"
     },
-    "9": {
+    {
       "name": "Data sets",
       "url": "#/list/dataSetSection/dataSet"
     },
-    "10": {
+    {
       "name": "Data set notifications",
       "url": "#/list/dataSetSection/dataSetNotificationTemplate"
     },
-    "11": {
+    {
       "name": "Indicators",
       "url": "#/list/indicatorSection/indicator"
     },
-    "12": {
+    {
       "name": "Indicator types",
       "url": "#/list/indicatorSection/indicatorType"
     },
-    "13": {
+    {
       "name": "Indicator groups",
       "url": "#/list/indicatorSection/indicatorGroup"
     },
-    "14": {
+    {
       "name": "Indicator group sets",
       "url": "#/list/indicatorSection/indicatorGroupSet"
     },
-    "15": {
+    {
       "name": "Program indicators",
       "url": "#/list/indicatorSection/programIndicator"
     },
-    "16": {
+    {
       "name": "Program indicator groups",
       "url": "#/list/indicatorSection/programIndicatorGroup"
     },
-    "17": {
+    {
       "name": "Organisation units",
       "url": "#/list/organisationUnitSection/organisationUnit"
     },
-    "18": {
-      "name": "Organisaiton unit groups",
+    {
+      "name": "Organisation unit groups",
       "url": "#/list/organisationUnitSection/organisationUnitGroup"
     },
-    "19": {
+    {
       "name": "Organisation unit group sets",
       "url": "#/list/organisationUnitSection/organisationUnitGroupSet"
     },
-    "20": {
+    {
       "name": "Organisation unit levels",
       "url": "#/list/organisationUnitSection/organisationUnitLevel"
     },
-    "21": {
+    {
       "name": "Hierarchy operations",
       "url": "#/organisationUnitSection/hierarchy"
     },
-    "22": {
+    {
       "name": "Programs",
       "url": "#/list/programSection/program"
     },
-    "23": {
+    {
       "name": "Tracked entity attributes",
       "url": "#/list/programSection/trackedEntityAttribute"
     },
-    "24": {
+    {
       "name": "Relationship types",
       "url": "#/list/programSection/relationshipType"
     },
-    "25": {
+    {
       "name": "Tracked entity types",
       "url": "#/list/programSection/trackedEntityType"
     },
-    "26": {
+    {
       "name": "Program rules",
       "url": "#/list/programSection/programRule"
     },
-    "27": {
+    {
       "name": "Program rule variables",
       "url": "#/list/programSection/programRuleVariable"
     },
-    "28": {
+    {
       "name": "Validation rules",
       "url": "#/list/validationSection/validationRule"
     },
-    "29": {
+    {
       "name": "Validation rule groups",
       "url": "#/list/validationSection/validationRuleGroup"
     },
-    "30": {
+    {
       "name": "Validation notifications",
       "url": "#/list/validationSection/validationNotificationTemplate"
     },
-    "31": {
+    {
       "name": "Constants",
       "url": "#/list/otherSection/constant"
     },
-    "32": {
+    {
       "name": "Attributes",
       "url": "#/list/otherSection/attribute"
     },
-    "33": {
+    {
       "name": "Option sets",
       "url": "#/list/otherSection/optionSet"
     },
-    "34": {
+    {
       "name": "Option groups",
       "url": "#/list/otherSection/optionGroup"
     },
-    "35": {
+    {
       "name": "Option group sets",
       "url": "#/list/otherSection/optionGroupSet"
     },
-    "36": {
+    {
       "name": "Legends",
       "url": "#/list/otherSection/legendSet"
     },
-    "37": {
+    {
       "name": "Predictors",
       "url": "#/list/otherSection/predictor"
     },
-    "38": {
+    {
       "name": "Predictor groups",
       "url": "#/list/otherSection/predictorGroup"
     },
-    "39": {
+    {
       "name": "Push analysis",
       "url": "#/list/otherSection/pushAnalysis"
     },
-    "40": {
+    {
       "name": "External map layers",
       "url": "#/list/otherSection/externalMapLayer"
     },
-    "41": {
+    {
       "name": "Data approval levels",
       "url": "#/list/otherSection/dataApprovalLevel"
     },
-    "42": {
+    {
       "name": "Data approval workflows",
       "url": "#/list/otherSection/dataApprovalWorkflow"
     },
-    "43": {
+    {
       "name": "Locales",
       "url": "#/list/otherSection/locale"
     },
-    "44": {
+    {
       "name": "SQL views",
       "url": "#/list/otherSection/sqlView"
     },
-    "45": {
+    {
       "name": "Icons",
       "url": "#/list/otherSection/icon"
     },
-    "46": {
+    {
       "name": "Analytics table hooks",
       "url": "#/list/otherSection/analyticsTableHook"
     }
-  },
-  "manifest_generated_at": "Wed Apr 09 2025 15:31:50 GMT+0000 (Coordinated Universal Time)"
+  ],
+  "manifest_generated_at": "Tue Apr 15 2025 11:20:07 GMT+0000 (Coordinated Universal Time)"
 }
