@@ -1,188 +1,188 @@
 [
   {
     "locale": "ar",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ar_IQ",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ckb",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "cs",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "da",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "en",
-    "translations": {
-      "APP_TITLE": "Maintenance app",
-      "APP_DESCRIPTION": "DHIS2 Maintenance app",
-      "SHORTCUT_Categories": "Categories",
-      "SHORTCUT_Category options": "Category options",
-      "SHORTCUT_Category combinations": "Category combinations",
-      "SHORTCUT_Category option combinations": "Category option combinations",
-      "SHORTCUT_Category option groups": "Category option groups",
-      "SHORTCUT_Category option group sets": "Category option group sets",
-      "SHORTCUT_Data elements": "Data elements",
-      "SHORTCUT_Data element groups ": "Data element groups ",
-      "SHORTCUT_Data element group sets": "Data element group sets",
-      "SHORTCUT_Data sets": "Data sets",
-      "SHORTCUT_Data set notifications": "Data set notifications",
-      "SHORTCUT_Indicators": "Indicators",
-      "SHORTCUT_Indicator types": "Indicator types",
-      "SHORTCUT_Indicator groups": "Indicator groups",
-      "SHORTCUT_Indicator group sets": "Indicator group sets",
-      "SHORTCUT_Program indicators": "Program indicators",
-      "SHORTCUT_Program indicator groups": "Program indicator groups",
-      "SHORTCUT_Organisation units": "Organisation units",
-      "SHORTCUT_Organisaiton unit groups": "Organisaiton unit groups",
-      "SHORTCUT_Organisation unit group sets": "Organisation unit group sets",
-      "SHORTCUT_Organisation unit levels": "Organisation unit levels",
-      "SHORTCUT_Hierarchy operations": "Hierarchy operations",
-      "SHORTCUT_Programs": "Programs",
-      "SHORTCUT_Tracked entity attributes": "Tracked entity attributes",
-      "SHORTCUT_Relationship types": "Relationship types",
-      "SHORTCUT_Tracked entity types": "Tracked entity types",
-      "SHORTCUT_Program rules": "Program rules",
-      "SHORTCUT_Program rule variables": "Program rule variables",
-      "SHORTCUT_Validation rules": "Validation rules",
-      "SHORTCUT_Validation rule groups": "Validation rule groups",
-      "SHORTCUT_Validation notifications": "Validation notifications",
-      "SHORTCUT_Constants": "Constants",
-      "SHORTCUT_Attributes": "Attributes",
-      "SHORTCUT_Option sets": "Option sets",
-      "SHORTCUT_Option groups": "Option groups",
-      "SHORTCUT_Option group sets": "Option group sets",
-      "SHORTCUT_Legends": "Legends",
-      "SHORTCUT_Predictors": "Predictors",
-      "SHORTCUT_Predictor groups": "Predictor groups",
-      "SHORTCUT_Push analysis": "Push analysis",
-      "SHORTCUT_External map layers": "External map layers",
-      "SHORTCUT_Data approval levels": "Data approval levels",
-      "SHORTCUT_Data approval workflows": "Data approval workflows",
-      "SHORTCUT_Locales": "Locales",
-      "SHORTCUT_SQL views": "SQL views",
-      "SHORTCUT_Icons": "Icons",
-      "SHORTCUT_Analytics table hooks": "Analytics table hooks"
-    }
+    "shortcuts": {
+      "Categories": "Categories",
+      "Category options": "Category options",
+      "Category combinations": "Category combinations",
+      "Category option combinations": "Category option combinations",
+      "Category option groups": "Category option groups",
+      "Category option group sets": "Category option group sets",
+      "Data elements": "Data elements",
+      "Data element groups ": "Data element groups ",
+      "Data element group sets": "Data element group sets",
+      "Data sets": "Data sets",
+      "Data set notifications": "Data set notifications",
+      "Indicators": "Indicators",
+      "Indicator types": "Indicator types",
+      "Indicator groups": "Indicator groups",
+      "Indicator group sets": "Indicator group sets",
+      "Program indicators": "Program indicators",
+      "Program indicator groups": "Program indicator groups",
+      "Organisation units": "Organisation units",
+      "Organisaiton unit groups": "Organisaiton unit groups",
+      "Organisation unit group sets": "Organisation unit group sets",
+      "Organisation unit levels": "Organisation unit levels",
+      "Hierarchy operations": "Hierarchy operations",
+      "Programs": "Programs",
+      "Tracked entity attributes": "Tracked entity attributes",
+      "Relationship types": "Relationship types",
+      "Tracked entity types": "Tracked entity types",
+      "Program rules": "Program rules",
+      "Program rule variables": "Program rule variables",
+      "Validation rules": "Validation rules",
+      "Validation rule groups": "Validation rule groups",
+      "Validation notifications": "Validation notifications",
+      "Constants": "Constants",
+      "Attributes": "Attributes",
+      "Option sets": "Option sets",
+      "Option groups": "Option groups",
+      "Option group sets": "Option group sets",
+      "Legends": "Legends",
+      "Predictors": "Predictors",
+      "Predictor groups": "Predictor groups",
+      "Push analysis": "Push analysis",
+      "External map layers": "External map layers",
+      "Data approval levels": "Data approval levels",
+      "Data approval workflows": "Data approval workflows",
+      "Locales": "Locales",
+      "SQL views": "SQL views",
+      "Icons": "Icons",
+      "Analytics table hooks": "Analytics table hooks"
+    },
+    "title": "Maintenance app",
+    "description": "DHIS2 Maintenance app"
   },
   {
     "locale": "es",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "es_419",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "fr",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "hi_IN",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "id",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "km",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "lo",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "my",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "nb",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ne",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "nl",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "prs",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ps",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "pt",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "pt_BR",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ro",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ru",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "si",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "sv",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "tet",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "tg",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uk",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ur",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uz_UZ_Cyrl",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uz_UZ_Latn",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "vi",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "zh",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "zh_CN",
-    "translations": {}
+    "shortcuts": {}
   }
 ]
