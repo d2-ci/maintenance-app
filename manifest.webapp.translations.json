@@ -50,7 +50,7 @@
       "Icons": "أيقونات",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "الضبط",
+    "title": "الصيانة",
     "description": "تطبيق DHIS2 للصيانة"
   },
   {
@@ -104,7 +104,7 @@
       "Icons": "أيقونات",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance",
+    "title": "الصيانة",
     "description": "تطبيق DHIS2 للصيانة"
   },
   {
@@ -1246,7 +1246,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance",
+    "title": "Underhåll",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1354,7 +1354,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance",
+    "title": "Таъмир",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1408,7 +1408,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance",
+    "title": "Підтримка",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1462,7 +1462,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance",
+    "title": "دیکھ بھال",
     "description": "DHIS2 Maintenance app"
   },
   {
