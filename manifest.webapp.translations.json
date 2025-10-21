@@ -50,62 +50,62 @@
       "Icons": "أيقونات",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "تطبيق الصيانة",
-    "description": "DHIS2 Maintenance app"
+    "title": "الضبط",
+    "description": "تطبيق DHIS2 للصيانة"
   },
   {
     "locale": "ar_IQ",
     "shortcuts": {
       "Categories": "الفئات",
-      "Category options": "Category options",
-      "Category combinations": "Category combinations",
-      "Category option combinations": "Category option combinations",
-      "Category option groups": "Category option groups",
-      "Category option group sets": "Category option group sets",
+      "Category options": "خيارات الفئة",
+      "Category combinations": "أمزجة الفئات",
+      "Category option combinations": "أمزجة خيارات الفئة",
+      "Category option groups": "مجموعات خيارات الفئة",
+      "Category option group sets": "أحزمة مجموعات خيارات الفئة",
       "Data elements": "عناصر البيانات",
-      "Data element groups ": "Data element groups",
-      "Data element group sets": "Data element group sets",
+      "Data element groups ": "مجموعات عناصر البيانات",
+      "Data element group sets": "أحزمة مجموعات عناصر البيانات",
       "Data sets": "حزم البيانات",
-      "Data set notifications": "Data set notifications",
+      "Data set notifications": "إشعارات حزمة البيانات",
       "Indicators": "المؤشرات",
-      "Indicator types": "Indicator types",
-      "Indicator groups": "Indicator groups",
-      "Indicator group sets": "Indicator group sets",
-      "Program indicators": "Program indicators",
-      "Program indicator groups": "Program indicator groups",
+      "Indicator types": "أنواع المؤشرات",
+      "Indicator groups": "مجموعات المؤشرات",
+      "Indicator group sets": "مجموعات مجموعة المؤشرات",
+      "Program indicators": "مؤشرات البرنامج",
+      "Program indicator groups": "مجموعات مؤشرات البرنامج",
       "Organisation units": "الوحدات التنظيمية",
-      "Organisaiton unit groups": "Organisaiton unit groups",
-      "Organisation unit group sets": "Organisation unit group sets",
-      "Organisation unit levels": "Organisation unit levels",
-      "Hierarchy operations": "Hierarchy operations",
-      "Programs": "Programs",
-      "Tracked entity attributes": "Tracked entity attributes",
-      "Relationship types": "Relationship types",
-      "Tracked entity types": "Tracked entity types",
-      "Program rules": "Program rules",
-      "Program rule variables": "Program rule variables",
-      "Validation rules": "Validation rules",
-      "Validation rule groups": "Validation rule groups",
-      "Validation notifications": "Validation notifications",
-      "Constants": "Constants",
-      "Attributes": "Attributes",
-      "Option sets": "Option sets",
-      "Option groups": "Option groups",
-      "Option group sets": "Option group sets",
-      "Legends": "Legends",
-      "Predictors": "Predictors",
-      "Predictor groups": "Predictor groups",
-      "Push analysis": "Push analysis",
-      "External map layers": "External map layers",
-      "Data approval levels": "Data approval levels",
-      "Data approval workflows": "Data approval workflows",
-      "Locales": "Locales",
+      "Organisaiton unit groups": "مجموعات الوحدات التنظيمية",
+      "Organisation unit group sets": "أحزمة مجموعات الوحدات التنظيمية",
+      "Organisation unit levels": "مستويات الوحدة التنظيمية",
+      "Hierarchy operations": "عمليات التسلسل الهرمي",
+      "Programs": "البرامج",
+      "Tracked entity attributes": "سمات الكيان المتعقب",
+      "Relationship types": "أنواع العلاقات",
+      "Tracked entity types": "أنواع الكيانات المتعقبة",
+      "Program rules": "قواعد البرنامج",
+      "Program rule variables": "متغيرات قاعدة البرنامج",
+      "Validation rules": "قواعد التحقق",
+      "Validation rule groups": "مجموعات قواعد التحقق",
+      "Validation notifications": "إشعارات التحقق من الصحة",
+      "Constants": "الثوابت",
+      "Attributes": "السمات",
+      "Option sets": "أحزمة الخيارات",
+      "Option groups": "مجموعات الخيارات",
+      "Option group sets": "مجموعات مجموعة الخيارات",
+      "Legends": "مفاتيح إيضاحية",
+      "Predictors": "أدوات التنبؤ",
+      "Predictor groups": "مجموعات أدوات التنبؤ",
+      "Push analysis": "تحليل الدفع",
+      "External map layers": "طبقات خريطة خارجية",
+      "Data approval levels": "مستويات الموافقة على البيانات",
+      "Data approval workflows": "سير عمل الموافقة على البيانات",
+      "Locales": "لغات",
       "SQL views": "SQL views",
-      "Icons": "Icons",
+      "Icons": "أيقونات",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
-    "description": "DHIS2 Maintenance app"
+    "title": "Maintenance",
+    "description": "تطبيق DHIS2 للصيانة"
   },
   {
     "locale": "ckb",
@@ -158,7 +158,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "سةرةكي",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -168,7 +168,7 @@
       "Category options": "Možnosti kategorie",
       "Category combinations": "Kombinace kategorií",
       "Category option combinations": "Kombinace možností kategorie",
-      "Category option groups": "Category option groups",
+      "Category option groups": "Skupiny možností kategorií",
       "Category option group sets": "Sady skupin možností kategorií",
       "Data elements": "Datové prvky",
       "Data element groups ": "Skupiny datových prvků",
@@ -187,7 +187,7 @@
       "Organisation unit levels": "Úrovně organizačních jednotek",
       "Hierarchy operations": "Hierarchické operace",
       "Programs": "Programy",
-      "Tracked entity attributes": "Tracked entity attributes",
+      "Tracked entity attributes": "Atributy trasované entity",
       "Relationship types": "Typy vztahů",
       "Tracked entity types": "typy trasovaných entit",
       "Program rules": "Pravidla programu",
@@ -212,7 +212,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Hooks analytických tabulek"
     },
-    "title": "Aplikace Údržba",
+    "title": "Údržba",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -266,7 +266,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -320,7 +320,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -374,7 +374,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Mantenimiento",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -428,7 +428,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -482,12 +482,62 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Application Maintenance",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
     "locale": "hi_IN",
-    "shortcuts": {}
+    "shortcuts": {
+      "Categories": "Categories",
+      "Category options": "Category options",
+      "Category combinations": "Category combinations",
+      "Category option combinations": "Category option combinations",
+      "Category option groups": "Category option groups",
+      "Category option group sets": "Category option group sets",
+      "Data elements": "Data elements",
+      "Data element groups ": "Data element groups",
+      "Data element group sets": "Data element group sets",
+      "Data sets": "Data sets",
+      "Data set notifications": "Data set notifications",
+      "Indicators": "Indicators",
+      "Indicator types": "Indicator types",
+      "Indicator groups": "Indicator groups",
+      "Indicator group sets": "Indicator group sets",
+      "Program indicators": "Program indicators",
+      "Program indicator groups": "Program indicator groups",
+      "Organisation units": "Organisation units",
+      "Organisaiton unit groups": "Organisaiton unit groups",
+      "Organisation unit group sets": "Organisation unit group sets",
+      "Organisation unit levels": "Organisation unit levels",
+      "Hierarchy operations": "Hierarchy operations",
+      "Programs": "Programs",
+      "Tracked entity attributes": "Tracked entity attributes",
+      "Relationship types": "Relationship types",
+      "Tracked entity types": "Tracked entity types",
+      "Program rules": "Program rules",
+      "Program rule variables": "Program rule variables",
+      "Validation rules": "Validation rules",
+      "Validation rule groups": "Validation rule groups",
+      "Validation notifications": "Validation notifications",
+      "Constants": "Constants",
+      "Attributes": "Attributes",
+      "Option sets": "Option sets",
+      "Option groups": "Option groups",
+      "Option group sets": "Option group sets",
+      "Legends": "Legends",
+      "Predictors": "Predictors",
+      "Predictor groups": "Predictor groups",
+      "Push analysis": "Push analysis",
+      "External map layers": "External map layers",
+      "Data approval levels": "Data approval levels",
+      "Data approval workflows": "Data approval workflows",
+      "Locales": "Locales",
+      "SQL views": "SQL views",
+      "Icons": "Icons",
+      "Analytics table hooks": "Analytics table hooks"
+    },
+    "title": "Maintenance",
+    "description": "DHIS2 Maintenance app"
   },
   {
     "locale": "id",
@@ -540,7 +590,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Perawatan",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -594,7 +644,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "តំ​ហែ​ទាំ​ប្រព័ន្ធ",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -648,7 +698,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "ການຮັກສາສ້ອມແປງ",
+    "title": "ການ​ຮັກ​ສາ​ສ້ອມ​ແປງ",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -702,7 +752,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "ထိမ်းသိမ်းခြင်း",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -756,7 +806,7 @@
       "Icons": "Ikoner",
       "Analytics table hooks": "Analysetabell-kroker"
     },
-    "title": "Metadata manager-app",
+    "title": "Metadata manager",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -814,7 +864,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -868,7 +918,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "مشاهده مودل حفظ و مراقبت استفاده کننده",
+    "title": "نگهداری",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -922,7 +972,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "د کاروونکي د څارنې او مراقبت نمونه وګورئ",
+    "title": "څارنه",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -946,19 +996,19 @@
       "Program indicators": "Indicador do programa",
       "Program indicator groups": "Grupos de indicadores de programa",
       "Organisation units": "Unidades organizacionais",
-      "Organisaiton unit groups": "Organisaiton unit groups",
+      "Organisaiton unit groups": "Grupos de unidades de organização",
       "Organisation unit group sets": "Conjuntos de grupos de unidades organizacionais",
       "Organisation unit levels": "Níveis de unidade organizacional",
       "Hierarchy operations": "Operações de hierarquias",
       "Programs": "Programas",
-      "Tracked entity attributes": "Tracked entity attributes",
+      "Tracked entity attributes": "Atributos de entidades monitorizadas",
       "Relationship types": "Tipos de relacionamentos ",
       "Tracked entity types": "Tipos de entidade rastreada ",
       "Program rules": "Regras de programa ",
       "Program rule variables": "Variáveis ​​de regra de programa",
       "Validation rules": "Regras de validação",
       "Validation rule groups": "Grupo de regras de validação",
-      "Validation notifications": "Validation notifications",
+      "Validation notifications": "Notificações de validação",
       "Constants": "Constantes",
       "Attributes": "Atributos",
       "Option sets": "Conjuntos de opções",
@@ -973,11 +1023,11 @@
       "Data approval workflows": "Fluxos de trabalho de aprovação de dados",
       "Locales": "Localidades",
       "SQL views": "Visualizações SQL",
-      "Icons": "Icons",
-      "Analytics table hooks": "Analytics table hooks"
+      "Icons": "Icones ",
+      "Analytics table hooks": "Ganchos de mesa para análise"
     },
-    "title": "Aplicativo de manutenção",
-    "description": "DHIS2 Maintenance app"
+    "title": "Manutenção",
+    "description": "Aplicação de manutenção DHIS2"
   },
   {
     "locale": "pt_BR",
@@ -987,51 +1037,51 @@
       "Category combinations": "Combinação de categorias ",
       "Category option combinations": "Combinações de opção de categoria",
       "Category option groups": "Grupos de opções de categoria",
-      "Category option group sets": "Category option group sets",
+      "Category option group sets": "Conjuntos de grupos de opções de categoria",
       "Data elements": "Os elementos de dados",
       "Data element groups ": "Grupos de Elementos de Dados",
-      "Data element group sets": "Data element group sets",
+      "Data element group sets": "Conjuntos de grupos de elementos de dados",
       "Data sets": "Agregação de Dados",
-      "Data set notifications": "Data set notifications",
+      "Data set notifications": "Notificações do conjunto de dados",
       "Indicators": "Indicadores",
       "Indicator types": "Tipos de indicador",
       "Indicator groups": "Grupos de Indicadores",
-      "Indicator group sets": "Indicator group sets",
-      "Program indicators": "Program indicators",
-      "Program indicator groups": "Program indicator groups",
+      "Indicator group sets": "Conjuntos de grupos de indicadores",
+      "Program indicators": "Indicador do programa",
+      "Program indicator groups": "Grupos de indicadores de programa",
       "Organisation units": "Unidades organizacionais",
-      "Organisaiton unit groups": "Organisaiton unit groups",
-      "Organisation unit group sets": "Organisation unit group sets",
-      "Organisation unit levels": "Organisation unit levels",
+      "Organisaiton unit groups": "Grupos de unidades organizacionais",
+      "Organisation unit group sets": "Conjuntos de grupos de unidades organizacionais",
+      "Organisation unit levels": "Níveis de unidade organizacional",
       "Hierarchy operations": "Operações de hierarquias",
       "Programs": "Programas",
-      "Tracked entity attributes": "Tracked entity attributes",
-      "Relationship types": "Relationship types",
-      "Tracked entity types": "Tracked entity types",
-      "Program rules": "Program rules",
-      "Program rule variables": "Program rule variables",
+      "Tracked entity attributes": "Atributos de entidades rastreadas",
+      "Relationship types": "Tipos de relacionamentos",
+      "Tracked entity types": "Tipos de entidade rastreada",
+      "Program rules": "Regras de programa",
+      "Program rule variables": "Variáveis ​​de regra de programa",
       "Validation rules": "Regras de validação",
-      "Validation rule groups": "Validation rule groups",
-      "Validation notifications": "Validation notifications",
+      "Validation rule groups": "Grupo de regras de validação",
+      "Validation notifications": "Notificações de validação",
       "Constants": "Constantes",
       "Attributes": "Atributos",
-      "Option sets": "Option sets",
-      "Option groups": "Option groups",
-      "Option group sets": "Option group sets",
+      "Option sets": "Conjuntos de opções",
+      "Option groups": "Grupo de opções",
+      "Option group sets": "Grupo de conjuntos de opções",
       "Legends": "Legendas",
-      "Predictors": "Predictors",
-      "Predictor groups": "Predictor groups",
-      "Push analysis": "Push analysis",
-      "External map layers": "External map layers",
-      "Data approval levels": "Data approval levels",
-      "Data approval workflows": "Data approval workflows",
-      "Locales": "Locales",
-      "SQL views": "SQL views",
-      "Icons": "Icons",
-      "Analytics table hooks": "Analytics table hooks"
+      "Predictors": "Preditores",
+      "Predictor groups": "Grupos preditores",
+      "Push analysis": "Análise push",
+      "External map layers": "Camadas de mapa externas",
+      "Data approval levels": "Níveis de aprovação de dados",
+      "Data approval workflows": "Fluxos de trabalho de aprovação de dados",
+      "Locales": "Localidades",
+      "SQL views": "Visualizações SQL",
+      "Icons": "Icones ",
+      "Analytics table hooks": "Ganchos de mesa para análise"
     },
-    "title": "Maintenance app",
-    "description": "DHIS2 Maintenance app"
+    "title": "Manutenção",
+    "description": "Aplicativo de manutenção do DHIS2"
   },
   {
     "locale": "ro",
@@ -1084,7 +1134,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1138,7 +1188,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Приложение \"Управление метаданными\"",
+    "title": "Управление метаданными",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1196,7 +1246,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1250,7 +1300,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Manutensaun",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1304,7 +1354,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1358,7 +1408,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1412,7 +1462,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Maintenance app",
+    "title": "Maintenance",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1466,7 +1516,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Таъминот дастури",
+    "title": "Техник хизмат",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1520,7 +1570,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Taʼminot dasturi",
+    "title": "Texnik xizmat",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1574,7 +1624,7 @@
       "Icons": "Icons",
       "Analytics table hooks": "Analytics table hooks"
     },
-    "title": "Bảo trì",
+    "title": "Bảo Trì",
     "description": "DHIS2 Maintenance app"
   },
   {
@@ -1628,7 +1678,7 @@
       "Icons": "图标",
       "Analytics table hooks": "分析表钩子"
     },
-    "title": "查看维护模块",
+    "title": "系统维护",
     "description": "DHIS2 维护应用程序"
   },
   {
@@ -1638,7 +1688,7 @@
       "Category options": "概念分类选项",
       "Category combinations": "分类组合",
       "Category option combinations": "分类组合选项",
-      "Category option groups": "Category option groups",
+      "Category option groups": "类别选项组",
       "Category option group sets": "分类选项组集",
       "Data elements": "数据元",
       "Data element groups ": "数据元组",
@@ -1652,19 +1702,19 @@
       "Program indicators": "项目指标",
       "Program indicator groups": "项目指标组",
       "Organisation units": "组织机构",
-      "Organisaiton unit groups": "Organisaiton unit groups",
+      "Organisaiton unit groups": "组织机构分组",
       "Organisation unit group sets": "机构组集",
       "Organisation unit levels": "机构等级",
       "Hierarchy operations": "体系结构操作",
       "Programs": "项目",
-      "Tracked entity attributes": "Tracked entity attributes",
+      "Tracked entity attributes": "跟踪实体属性",
       "Relationship types": "关系类型",
       "Tracked entity types": "跟踪实体类型",
       "Program rules": "项目规则",
       "Program rule variables": "项目规则变量",
       "Validation rules": "验证规则",
       "Validation rule groups": "验证规则组",
-      "Validation notifications": "Validation notifications",
+      "Validation notifications": "验证通知",
       "Constants": "常数",
       "Attributes": "属性",
       "Option sets": "选项集",
@@ -1679,10 +1729,10 @@
       "Data approval workflows": "数据审核流程",
       "Locales": "本地化",
       "SQL views": "SQL 视图",
-      "Icons": "Icons",
-      "Analytics table hooks": "Analytics table hooks"
+      "Icons": "图标",
+      "Analytics table hooks": "分析表钩子"
     },
-    "title": "查看维护模块",
-    "description": "DHIS2 Maintenance app"
+    "title": "系统维护",
+    "description": "DHIS2 维护应用程序"
   }
 ]
