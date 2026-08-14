@@ -452,7 +452,7 @@
       "Program indicators": "Indicateurs de programme",
       "Program indicator groups": "Groupes d'indicateurs de programme",
       "Organisation units": "Unités d'organisation",
-      "Organisaiton unit groups": "Organisaiton unit groups",
+      "Organisaiton unit groups": "Groupes d'unités d'organisation",
       "Organisation unit group sets": "Ensemble de groupes d'unités d'organisation",
       "Organisation unit levels": "Niveaux des unités d'organisation",
       "Hierarchy operations": "Opérations de hiérarchie",
@@ -464,7 +464,7 @@
       "Program rule variables": "Variables de règle de programme",
       "Validation rules": "Règles de validation",
       "Validation rule groups": "Groupes de règles de validation",
-      "Validation notifications": "Validation notifications",
+      "Validation notifications": "Notifications de validation",
       "Constants": "Constantes",
       "Attributes": "Les attributs",
       "Option sets": "Ensembles d'options",
@@ -479,11 +479,11 @@
       "Data approval workflows": "Workflows d'approbation de données",
       "Locales": "Langues",
       "SQL views": "Vues SQL",
-      "Icons": "Icons",
-      "Analytics table hooks": "Analytics table hooks"
+      "Icons": "Les Icônes",
+      "Analytics table hooks": "Crochets du tableau analytique"
     },
     "title": "Maintenance",
-    "description": "DHIS2 Maintenance app"
+    "description": "Application de maintenance DHIS2"
   },
   {
     "locale": "hi_IN",
